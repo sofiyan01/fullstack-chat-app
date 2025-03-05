@@ -1,0 +1,1 @@
+The Real-Time Chat App is a full-stack MERN application that enables instant messaging with Socket.io for real-time communication. It includes JWT-based authentication, user management, one-on-one chats, online status tracking, and message persistence using MongoDB. 🚀
